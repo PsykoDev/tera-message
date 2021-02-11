@@ -1,4 +1,4 @@
-TERA-Message
+TERA-Message From Tera-Mod, ZC
 ======
 
 # Function introduction
